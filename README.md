@@ -9,4 +9,11 @@ sophisticated applications by constantly learning new technologies.
 I am deeply grateful to Shraddha ma'am, whose excellent teaching
 and guidance provided me with the fundamental concepts to bring
 this project to life.
+
+
+
 <img width="1920" height="1200" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/54bb4bf3-42e4-493c-9ad2-bbf150091606" />
+
+
+<img width="1920" height="1200" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/5a31a7a5-eaee-49ae-b2f1-0d5351259a91" />
+
